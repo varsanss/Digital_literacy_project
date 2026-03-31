@@ -60,7 +60,7 @@ Developed a case study on cyberbullying along with a prevention checklist.
 
  🔗 Useful Links
 - GitHub Profile: https://github.com/varsanss
-- LinkedIn Profile: 
+- LinkedIn Profile: https://www.linkedin.com/in/prateek-singh-04337a328/?isSelfProfile=true
 - Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfe2cqZRHAUqYplkbOziyE9grZFDejeA7V_Qc5bZvUosJF4qw/viewform?pli=1
 
 ---
